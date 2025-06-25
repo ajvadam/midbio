@@ -1,2 +1,4 @@
+
+Flask
+gunicorn
 gradio_client
-flask
